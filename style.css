@@ -1,0 +1,173 @@
+.btn{
+    background: #b9cef1;
+    color: #000000;
+    display: block;
+  }
+
+  img, .subtituloadmin{
+    display:block;
+    margin:auto;
+    text-align: center;
+    }
+
+.offcanvas offcanvas-start{
+ margin: 45px;
+background: #f3b121;
+padding: 25px;
+position: relative;
+}
+
+
+
+body
+{
+    color: #08693c;
+    background: #c8faed;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14 - 1px;
+}
+.backButton
+{
+    margin-left: 10px;
+    position: absolute;
+    box-sizing: content-box;
+    z-index: 1;
+}
+.backButton a i
+{
+    color: #FFF;
+    padding-top: 1px;
+    font-size: 30px;
+}
+.studentTitleLabel
+{
+    padding-left: 40px;
+}
+.table-responsive
+{
+    margin: 30px 0;
+    box-shadow: 0 8px 8px rgba(0,0,0,.08);
+    border-radius: 0 0 10px 10px;
+}
+.table-wrapper
+{
+    min-width: 1000px;
+    background: #FFF;
+    padding: 20px 25px 0.2px 25px;
+    border-radius: 10px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.table-title
+{        
+    padding-bottom: 15px;
+    background: #015d52;
+    color: #FFF;
+    padding: 30px 30px;
+    margin: -20px -25px 10px;
+    border-radius: 10px 10px 0 0;
+}
+.table-title h2
+{
+    margin: 4px 0 0;
+    font-size: 24px;
+}
+.table-title .btn-group
+{
+    float: right;
+}
+.table-title .btn
+{
+    background: #b9cef1;
+    color: #000000;
+    float: right;
+    font-size: 14px;
+    border: none;
+    min-width: 50px;
+    border-radius: 6px;
+    border: none;
+    outline: none !important;
+    margin-left: 10px;
+}
+.table-title .btn i
+{
+    float: left;
+    font-size: 22px;
+    margin-right: 4px;
+}
+.table-title .btn span
+{
+    float: left;
+    margin-top: 2px;
+}
+table.table tr th, table.table tr td
+{
+    border-color: #E8E8E8;
+    padding: 12px 15px;
+    vertical-align: middle;
+}
+table.table tr th:first-child
+{
+    width: 144px;
+}
+table.table tr th:last-child
+{
+    width: 144px;
+}
+table.table-striped tbody tr:nth-of-type(odd)
+{
+    background-color: #FCFCFC;
+}
+table.table-striped.table-hover tbody tr:hover
+{
+    background: #F5F5F5;
+}
+table.table th i
+{
+    font-size: 14px;
+    margin: 0 5px;
+    cursor: pointer;
+}	
+table.table td:last-child i
+{
+    opacity: 0.9;
+    font-size: 22px;
+    margin: 0 6px;
+}
+table.table td a
+{
+    font-weight: bold;
+    color: #b9cef1;
+    display: inline-block;
+    text-decoration: none;
+    outline: none !important;
+}
+table.table td a:hover
+{
+    color: #2186F3;
+}
+table.table td a.edit
+{
+    color: #406EF4;
+}
+
+table.table td a.courses
+{
+    color: rgb(105, 182, 105);
+}
+table.table td i
+{
+    font-size: 19px;
+}
+table.table .avatar
+{
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+footer{
+    display: inline;
+    text-align: center;
+}
+
+
